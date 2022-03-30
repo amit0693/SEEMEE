@@ -25,7 +25,7 @@ export const categories = [
   },
   
   {
-    name: 'art',
+    name: 'abstract',
     image: 'https://i.pinimg.com/736x/f4/e5/ba/f4e5ba22311039662dd253be33bf5f0e.jpg',
   }, {
     name: 'travel',
